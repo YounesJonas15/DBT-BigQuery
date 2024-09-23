@@ -8,6 +8,7 @@ with source as (
         od.quantity,
         od.discount,
         od.status_id,
+        od.unit_price,
         od.date_allocated,
         od.purchase_order_id,
         od.inventory_id,
@@ -27,5 +28,6 @@ unique_order as (
 )
 select 
 *
+EXCEPT(row_numbers)
 from unique_order
 where row_numbers = 1
