@@ -28,3 +28,14 @@ models:
       +enabled: true
       +schema: stg_northwind
       +materialized: table
+    warehouse:
+      +enabled: true
+      +schema: dwh_northwind
+      +materialized: table
+      dim_date:
+        +materialized: view
+    analytics_obt:
+      +enabled: true
+      +schema: obt_northwind
+      +materialized: table
+      
