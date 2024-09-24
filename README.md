@@ -13,10 +13,15 @@ bootcamp d'analtycis engineering.
 
 ## 🎯 À propos du projet
 
-Durant ce projet j'ai réalisé une chaine de transofrmationde donnée northwind sample data qui est  ....  de bout en bout en utisant dbt cloud et bigquery comme .. 
+Durant ce projet, j'ai conçu et mis en place une chaîne de transformation de données complète (de bout en bout) en utilisant DBT Cloud et BigQuery. Le projet s'appuie sur l'ensemble de données Northwind Sample Data, un jeu de données classique souvent utilisé pour des démonstrations d'analyses commerciales.
+
+L'objectif principal de cette chaîne de transformation est de fournir une structure ELT moderne et efficace, qui permet d'automatiser le traitement des données brutes vers des données prêtes à l'analyse. Cela inclut :
+
+- Chargement  des données Northwind dans bigQuery.
+- Transformation via DBT Cloud, où les données brutes sont nettoyées et modélisées pour répondre à des cas d'usage d'analyse spécifiques.
 ### Technologies utilisées
 
-- **Langages** : SQL, Jinja 
+- **Langages** : SQL 
 - **Darawarehouse** : BigQuery  
 - **outil de  transformation** : DBT cloud
 
