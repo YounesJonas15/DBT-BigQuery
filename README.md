@@ -1,6 +1,6 @@
 # 🌟 Nom du Projet
 
-**Description concise** : ce projet est un bootcamp d'analtycis engineering.
+bootcamp d'analtycis engineering.
 
 ---
 
