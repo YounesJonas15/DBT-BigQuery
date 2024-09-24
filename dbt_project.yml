@@ -24,6 +24,7 @@ clean-targets:
 # Configuring models
 models:
   ae_bootcamp:
+    +required_tests: {"unique.*|not_null"}
     staging:
       +enabled: true
       +schema: stg_northwind
