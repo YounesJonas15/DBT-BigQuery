@@ -1,5 +1,26 @@
-Welcome to your new dbt project!
+# 🌟 Nom du Projet
 
+**Description concise** : ce projet est un bootcamp d'analtycis engineering.
+
+---
+
+## 📋 Sommaire
+
+- [À propos du projet](#à-propos-du-projet)
+- [Fonctionnalités](#fonctionnalités)
+
+---
+
+## 🎯 À propos du projet
+
+Durant ce projet j'ai réalisé une chaine de transofrmationde donnée northwind sample data qui est  ....  de bout en bout en utisant dbt cloud et bigquery comme .. 
+### Technologies utilisées
+
+- **Langages** : SQL, Jinja 
+- **Darawarehouse** : BigQuery  
+- **outil de  transformation ** : DBT cloud
+
+---
 ### Using the starter project
 
 Try running the following commands:
