@@ -18,7 +18,7 @@ Durant ce projet j'ai réalisé une chaine de transofrmationde donnée northwind
 
 - **Langages** : SQL, Jinja 
 - **Darawarehouse** : BigQuery  
-- **outil de  transformation ** : DBT cloud
+- **outil de  transformation** : DBT cloud
 
 ---
 ### Using the starter project
